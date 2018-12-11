@@ -1,3 +1,6 @@
+Old API I built a long long while ago. Put it here in case it's interesting to anyone. Beware, best coding practices were not followed.
+
+
 # api-charlie-rose
 
 A collection of scripts plus an API that may be helpful when building a client for viewing Charlie Rose Shows.
